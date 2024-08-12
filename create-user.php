@@ -1,5 +1,7 @@
-<!-- This is Task:3 Adding data to the database
-                    By making a form.
+<!-- This is Task:3 
+ 
+    Adding data to the database
+    By making a form. 
 -->
 
 <!DOCTYPE html>
